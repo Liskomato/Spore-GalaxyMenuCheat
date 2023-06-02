@@ -1,0 +1,4 @@
+<mod displayName="Galaxy Menu Cheat" unique="GalaxyMenuCheat" description="Adds a cheat that returns you to the main menu." installerSystemVersion="1.0.1.2" hasCustomInstaller="false" isExperimental="false" dllsBuild="2.5.265">
+<prerequisite>GalaxyMenuCheat.dll</prerequisite>
+<remove>GalaxyMenuCheat.dll</remove>
+</mod>
